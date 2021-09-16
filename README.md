@@ -1,1 +1,1 @@
-# STEPin_-Seat_Temperature_monotoring_system
+# STEPin_-Seat_Temperature_monitoring_system
