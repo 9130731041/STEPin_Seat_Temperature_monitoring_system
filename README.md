@@ -13,4 +13,5 @@ In this project we have design a seat temperature monitoring system.
 
 
 ![Code Quality score](https://www.code-inspector.com/project/28873/score/svg)<br/>
-https://www.code-inspector.com/project/28873/status/svg
+(https://www.code-inspector.com/project/28873/status/svg)
+![Code grade score](https://www.code-inspector.com/project/28873/status/svg)
